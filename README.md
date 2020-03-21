@@ -52,7 +52,7 @@ W. H. Tsai, ‘‘Moment-preserving thresholding: A new approach,’’ Graph. M
 ### Local methods
   8. Nick threshold method
 
-Khurram Khurshid, Imran Siddiqi, Claudie Faure, and Nicole Vincent "Comparison of Niblack inspired binarization methods for ancient documents", Proc. SPIE 7247, Document Recognition and Retrieval XVI, 72470U (19 January 2009); https://doi.org/10.1117/12.805827 
+Khurram Khurshid, Imran Siddiqi, Claudie Faure, and Nicole Vincent "Comparison of Niblack inspired binarization methods for ancient documents", Proc. SPIE 7247, Document Recognition and Retrieval XVI, 72470U (19 January 2009); doi.org/10.1117/12.805827
 
    9. Niblack’s threshold method
 
